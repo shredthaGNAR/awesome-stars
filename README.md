@@ -68,7 +68,7 @@
 | 2 |  [CatImageInfo](https://github.com/quiteconfused/CatImageInfo) | Image Recognition through known Social Media also known as &#34;Search by Image or Google Goggles&#34;. Tools to dynamically identify and rename images based on image content in a directory or in a tcpdump&#39;ish fashion | quiteconfused | 2 |
 | 3 |  [WebPQuickLook](https://github.com/emin/WebPQuickLook) | Mac OS X QuickLook plugin for WebP image files | emin | 701 |
 | 4 |  [Capslock](https://github.com/suliveevil/Capslock) | ultimate macOS keyboard re-mapping | suliveevil | 123 |
-| 5 |  [mpv](https://github.com/mpv-player/mpv) | 🎥 Command line video player | mpv-player | 17048 |
+| 5 |  [mpv](https://github.com/mpv-player/mpv) | 🎥 Command line video player | mpv-player | 17049 |
 | 6 |  [desmume](https://github.com/TASEmulators/desmume) | DeSmuME is a Nintendo DS emulator | TASEmulators | 1287 |
 | 7 |  [macpaste](https://github.com/lodestone/macpaste) | Global middle-mouse-click copy/paste for Mac OSX (C). | lodestone | 91 |
 | 8 |  [yabai](https://github.com/koekeishiya/yabai) | A tiling window manager for macOS based on binary space partitioning | koekeishiya | 9832 |
@@ -92,11 +92,11 @@
 | 2 |  [smplayer](https://github.com/smplayer-dev/smplayer) | Free Media Player for Windows, Linux and Mac OS with YouTube support. | smplayer-dev | 160 |
 | 3 |  [media-downloader](https://github.com/mhogomchungu/media-downloader) | Media Downloader is a Qt/C++ front end to youtube-dl | mhogomchungu | 244 |
 | 4 |  [LANDrop](https://github.com/LANDrop/LANDrop) | Drop any files to any devices on your LAN. | LANDrop | 1498 |
-| 5 |  [keepassxc](https://github.com/keepassxreboot/keepassxc) | KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”. | keepassxreboot | 11649 |
+| 5 |  [keepassxc](https://github.com/keepassxreboot/keepassxc) | KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”. | keepassxreboot | 11650 |
 | 6 |  [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) | Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later. | pqrs-org | 13894 |
 | 7 |  [QOwnNotes](https://github.com/pbek/QOwnNotes) | QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration. | pbek | 2370 |
 | 8 |  [notes](https://github.com/nuttyartist/notes) | Note-taking application, write down your thoughts. | nuttyartist | 674 |
-| 9 |  [aria2](https://github.com/aria2/aria2) | aria2 is a lightweight multi-protocol &amp; multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink. | aria2 | 25030 |
+| 9 |  [aria2](https://github.com/aria2/aria2) | aria2 is a lightweight multi-protocol &amp; multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink. | aria2 | 25031 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -210,7 +210,7 @@
 | 105 |  [Pro-Fox](https://github.com/xmansyx/Pro-Fox) | A custome CSS Theme for firefox | xmansyx | 13 |
 | 106 |  [Proton-UI-connected-rounded-tabs](https://github.com/sagars007/Proton-UI-connected-rounded-tabs) | Firefox Proton UI minimal changes with nav-bar-connected rounded tabs, reduced compact mode, nightly color gradient accents etc.. | sagars007 | 19 |
 | 107 |  [thunderbird-theme-papirus](https://github.com/PapirusDevelopmentTeam/thunderbird-theme-papirus) | Papirus icons for Thunderbird | PapirusDevelopmentTeam | 20 |
-| 108 |  [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | Iconic font aggregator, collection, &amp; patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, &amp; more | ryanoasis | 31891 |
+| 108 |  [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) | Iconic font aggregator, collection, &amp; patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, &amp; more | ryanoasis | 31890 |
 | 109 |  [Quietfox-Proton](https://github.com/Shad0wSeven/Quietfox-Proton) | Quietfox release for Proton, upgrades and improvments from myself, and from the Lepton project | Shad0wSeven | 8 |
 | 110 |  [thunderbird-theme-arc](https://github.com/kaipee/thunderbird-theme-arc) | Arc inspired theme for Thunderbird | kaipee | 1 |
 | 111 |  [firefox-safari-style](https://github.com/panjilp-lab/firefox-safari-style) | put to default:profiles root dir | panjilp-lab | 1 |
@@ -231,7 +231,7 @@
 | 126 |  [userscripts](https://github.com/jwilk/userscripts) | Jakub&#39;s custom CSS and JavaScript (for dotPageMod Firefox extension) | jwilk | 1 |
 | 127 |  [one-vibrancy](https://github.com/simurai/one-vibrancy) | Vibrancy effect for Atom One themes | simurai | 206 |
 | 128 |  [Poison-Firefox-Theme](https://github.com/typkrft/Poison-Firefox-Theme) | A Firefox theme with Pywal and macOS in mind. | typkrft | 19 |
-| 129 |  [Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) | 🦊 I respect proton UI and aim to improve it. | black7375 | 3238 |
+| 129 |  [Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) | 🦊 I respect proton UI and aim to improve it. | black7375 | 3239 |
 | 130 |  [moonlight-userChrome](https://github.com/eduardhojbota/moonlight-userChrome) | A dark userstyle for Firefox inspired by moonlight-vscode-theme and github-moonlight | eduardhojbota | 112 |
 | 131 |  [FIREFOX-BLUE-MOON](https://github.com/GrosBourrin/FIREFOX-BLUE-MOON) | Firefox blueish &amp; dark theme | GrosBourrin | 3 |
 | 132 |  [Cortland](https://github.com/Andereoo/Cortland) | A sleek, modern, macOS-inspired theme for Firefox | Andereoo | 4 |
@@ -292,9 +292,9 @@
 ## Go
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) | A prompt theme engine for any shell. | JanDeDobbeleer | 3765 |
+| 1 |  [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) | A prompt theme engine for any shell. | JanDeDobbeleer | 3766 |
 | 2 |  [cbyge](https://github.com/unixpickle/cbyge) | Reverse engineering Cync (formerly &#34;C by GE&#34;) WiFi devices | unixpickle | 27 |
-| 3 |  [rclone](https://github.com/rclone/rclone) | &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files | rclone | 30585 |
+| 3 |  [rclone](https://github.com/rclone/rclone) | &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files | rclone | 30587 |
 | 4 |  [ffcss](https://github.com/ewen-lbh/ffcss) | A CLI interface to apply and configure FirefoxCSS themes | ewen-lbh | 41 |
 | 5 |  [cli](https://github.com/cli/cli) | GitHub’s official command line tool | cli | 26682 |
 | 6 |  [shopify_id_export](https://github.com/ScreenStaring/shopify_id_export) | Export Shopify product and variant IDs —along with other identifiers— to a CSV or JSON file | ScreenStaring | 4 |
@@ -358,7 +358,7 @@
 | 1 |  [android-ringtone-picker](https://github.com/kevalpatel2106/android-ringtone-picker) | Simple Ringtone Picker dialog which allows you to pick different sounds from ringtone, alarm tone, notification tone and music from external storage. | kevalpatel2106 | 65 |
 | 2 |  [Search-A-Profile](https://github.com/rominirani/Search-A-Profile) | A Google Talk Bot that gives you details about a person from various Social Networks given an email address. Powered by Get Contact API | rominirani | 2 |
 | 3 |  [languagetool](https://github.com/languagetool-org/languagetool) | Style and Grammar Checker for 25+ Languages | languagetool-org | 5652 |
-| 4 |  [NewPipe](https://github.com/TeamNewPipe/NewPipe) | A libre lightweight streaming front-end for Android. | TeamNewPipe | 15813 |
+| 4 |  [NewPipe](https://github.com/TeamNewPipe/NewPipe) | A libre lightweight streaming front-end for Android. | TeamNewPipe | 15812 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -395,7 +395,7 @@
 | 28 |  [firefox-complement](https://github.com/krathalan/firefox-complement) |  | krathalan | 1 |
 | 29 |  [vscode-plugin](https://github.com/kiteco/vscode-plugin) | Kite Autocomplete Plugin for Visual Studio Code | kiteco | 511 |
 | 30 |  [jeelizFaceFilter](https://github.com/jeeliz/jeelizFaceFilter) | Javascript/WebGL lightweight face tracking library designed for augmented reality webcam filters. Features : multiple faces detection, rotation, mouth opening. Various integration examples are provided (Three.js, Babylon.js, FaceSwap, Canvas2D, CSS3D...). | jeeliz | 2049 |
-| 31 |  [awesome-mac](https://github.com/jaywcjlove/awesome-mac) |  Now we have become very big, Different from the original idea. Collect premium software in various categories. | jaywcjlove | 46763 |
+| 31 |  [awesome-mac](https://github.com/jaywcjlove/awesome-mac) |  Now we have become very big, Different from the original idea. Collect premium software in various categories. | jaywcjlove | 46764 |
 | 32 |  [pocketizer](https://github.com/gglukmann/pocketizer) | Unofficial Pocket new tab extension for Chrome, Firefox, and Edge | gglukmann | 37 |
 | 33 |  [shopify-theme-dev](https://github.com/craigerm/shopify-theme-dev) |  | craigerm | 1 |
 | 34 |  [shopify-outofthebox](https://github.com/akospaska/shopify-outofthebox) | shopify-outofthebox | akospaska | 1 |
@@ -415,7 +415,7 @@
 | 48 |  [firefox-settings](https://github.com/denis-g/firefox-settings) | 🦊 Personal Firefox settings. Based on arkenfox/user.js with additional UI fixes. | denis-g | 2 |
 | 49 |  [dropshare](https://github.com/coolaj86/dropshare) | A min.us / ge.tt file share clone. | coolaj86 | 12 |
 | 50 |  [pocketmark](https://github.com/ruipgil/pocketmark) | From pocket to chrome bookmarks | ruipgil | 11 |
-| 51 |  [user.js](https://github.com/pyllyukko/user.js) | user.js -- Firefox configuration hardening | pyllyukko | 2360 |
+| 51 |  [user.js](https://github.com/pyllyukko/user.js) | user.js -- Firefox configuration hardening | pyllyukko | 2361 |
 | 52 |  [panorama-view](https://github.com/photodiode/panorama-view) | Add-on for Firefox letting you organize tabs and tab groups visually in one place | photodiode | 170 |
 | 53 |  [hes-gallery](https://github.com/demtario/hes-gallery) | Light, dependency free, responsive gallery script | demtario | 23 |
 | 54 |  [web-configs](https://github.com/Shopify/web-configs) | Common configurations for building web apps at Shopify | Shopify | 348 |
@@ -460,7 +460,7 @@
 | 93 |  [newtab-btn-menu](https://github.com/garywill/newtab-btn-menu) | FIrefox open URL in clipboard by right-clicking new-tab-button then use context menu. Create new tab button&#39;s context menu with a menu item to open clipboard URL in new tab. 📋🖱️🔗 | garywill | 3 |
 | 94 |  [BigSearch](https://github.com/garywill/BigSearch) | Handily use/switch any One or Multiple (uninterruptedly) search engines via a Flexible Tool! Highly Customizable! 大术专搜，既专又广。以 灵活顺手的工具 使用(切换)任意一个 或 (连续)多个 搜索引擎 🔎🌐 | garywill | 18 |
 | 95 |  [sidebar-switch](https://github.com/garywill/sidebar-switch) | Switch for Firefox&#39;s native sidebar. A slim vertical button on left of main content. Replace the legacy addon All in One Sidebar. You can open sidebar by clicking edge of screen. 🪟 | garywill | 7 |
-| 96 |  [snapdrop](https://github.com/RobinLinus/snapdrop) | A Progressive Web App for local file sharing | RobinLinus | 10223 |
+| 96 |  [snapdrop](https://github.com/RobinLinus/snapdrop) | A Progressive Web App for local file sharing | RobinLinus | 10224 |
 | 97 |  [Signature-Generator](https://github.com/ronfybish/Signature-Generator) | Email Signature Generator - React &amp; Firebase | ronfybish | 11 |
 | 98 |  [email-signature-generator](https://github.com/Van-Code/email-signature-generator) | html email signature generator | Van-Code | 5 |
 | 99 |  [CEP-Resources](https://github.com/Adobe-CEP/CEP-Resources) | Tools and documentation for building Creative Cloud app extensions with CEP | Adobe-CEP | 1086 |
@@ -546,7 +546,7 @@
 | 179 |  [vscode-custom-css](https://github.com/be5invis/vscode-custom-css) | Custom CSS Plugin for Visual Studio Code. Based on vscode-icon | be5invis | 585 |
 | 180 |  [vscode-vibrancy](https://github.com/EYHN/vscode-vibrancy) | Enable Acrylic/Glass effect for your VS Code. | EYHN | 490 |
 | 181 |  [SAL-Firefox](https://github.com/thepante/SAL-Firefox) | Sidebar Always Loaded for Firefox | thepante | 9 |
-| 182 |  [SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) | Web Extension for Firefox/MS Edge and CLI tool to save a faithful copy of an entire web page in a self-extracting HTML/ZIP polyglot file | gildas-lormeau | 1062 |
+| 182 |  [SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) | Web Extension for Firefox/MS Edge and CLI tool to save a faithful copy of an entire web page in a self-extracting HTML/ZIP polyglot file | gildas-lormeau | 1063 |
 | 183 |  [SingleFile](https://github.com/gildas-lormeau/SingleFile) | Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file | gildas-lormeau | 4428 |
 | 184 |  [dataLayer-shopify](https://github.com/TechnicalWebAnalytics/dataLayer-shopify) | A dataLayer integration specific to extracting information from Shopify. | TechnicalWebAnalytics | 72 |
 | 185 |  [live-css-editor](https://github.com/webextensions/live-css-editor) | Source code for Chrome/Edge/Firefox/Opera extension Magic CSS (Live editor for CSS, Less &amp; Sass) | webextensions | 157 |
@@ -573,7 +573,7 @@
 | 206 |  [Tab-Session-Manager](https://github.com/sienori/Tab-Session-Manager) | WebExtensions for restoring and saving window / tab states | sienori | 1010 |
 | 207 |  [thunderbird-conversations](https://github.com/thunderbird-conversations/thunderbird-conversations) | An extension for Thunderbird that allows you to view threads as &#34;real&#34; conversations, including your own emails. This extension also adds a bunch of useful UI features in the conversation view. | thunderbird-conversations | 541 |
 | 208 |  [Chrome-Store-Foxified](https://github.com/Noitidart/Chrome-Store-Foxified) | Point and click to install extensions into your browser from the AMO, Chrome Web Store, Microsoft Store, or Opera Addons websites. | Noitidart | 295 |
-| 209 |  [marktext](https://github.com/marktext/marktext) | 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. | marktext | 23303 |
+| 209 |  [marktext](https://github.com/marktext/marktext) | 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. | marktext | 23333 |
 | 210 |  [skip-prime-video-intro](https://github.com/jonashellmann/skip-prime-video-intro) | Firefox addon to automatically skip intros on Amazon Prime Video | jonashellmann | 2 |
 | 211 |  [prime-video-adblock](https://github.com/praveenravi77/prime-video-adblock) | A simple extension to block amazon prime video ads in shows that are &#34;Free but have ads&#34; | praveenravi77 | 1 |
 | 212 |  [shopify_app_detector](https://github.com/feracommerce/shopify_app_detector) | Shopify App Detector chrome extension that can show you what theme and Shopify apps a store is using. | feracommerce | 47 |
@@ -627,7 +627,7 @@
 | 35 |  [wokiee](https://github.com/WynStaXxx/wokiee) |  | WynStaXxx | 1 |
 | 36 |  [shopify-foundation-theme](https://github.com/uicrooks/shopify-foundation-theme) | Modern Shopify theme using Shopify Theme Lab, Liquid, Vue and Tailwind CSS 🎨 | uicrooks | 130 |
 | 37 |  [dawn](https://github.com/WynStaXxx/dawn) | Shopify&#39;s first source available reference theme, with Online Store 2.0 features and performance built-in. | WynStaXxx | 1 |
-| 38 |  [dawn](https://github.com/Shopify/dawn) | Shopify&#39;s first source available reference theme, with Online Store 2.0 features and performance built-in. | Shopify | 1395 |
+| 38 |  [dawn](https://github.com/Shopify/dawn) | Shopify&#39;s first source available reference theme, with Online Store 2.0 features and performance built-in. | Shopify | 1396 |
 | 39 |  [shopify-webpack-dev-workflow](https://github.com/krjo/shopify-webpack-dev-workflow) |  | krjo | 121 |
 | 40 |  [shopify-workflow-poc](https://github.com/freyum/shopify-workflow-poc) | PoC of Shopify development workflow using GitHub Actions with multiple environments. | freyum | 31 |
 | 41 |  [shopify-theme-dev](https://github.com/joiwilliweb/shopify-theme-dev) |  | joiwilliweb | 1 |
@@ -677,13 +677,13 @@
 | 3 |  [MacForge](https://github.com/MacEnhance/MacForge) | 📦 Plugin, App, and Theme store which includes plugin injection for macOS | MacEnhance | 706 |
 | 4 |  [Cakebrew](https://github.com/brunophilipe/Cakebrew) | Manage your Homebrew formulas with style using Cakebrew. | brunophilipe | 4052 |
 | 5 |  [Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane) | a Cocoa GUI for /etc/hosts | specialunderwear | 1549 |
-| 6 |  [osxiconutils](https://github.com/sveinbjornt/osxiconutils) | A suite of command line utilities for working with Mac icons | sveinbjornt | 84 |
+| 6 |  [osxiconutils](https://github.com/sveinbjornt/osxiconutils) | A suite of command line utilities for working with Mac icons | sveinbjornt | 85 |
 | 7 |  [macgap2_google_keep](https://github.com/darkbrow/macgap2_google_keep) |  | darkbrow | 1 |
 | 8 |  [Rhea](https://github.com/timonus/Rhea) | A Mac status bar app for quickly sharing files and links. | timonus | 82 |
 | 9 |  [cdto](https://github.com/jbtule/cdto) | Finder Toolbar app to open the current directory in the Terminal | jbtule | 1980 |
 | 10 |  [beardedspice](https://github.com/beardedspice/beardedspice) | Mac Media Keys for the Masses | beardedspice | 2742 |
 | 11 |  [gitx](https://github.com/gitx/gitx) | The best fork of the best lightweight, visual git client for macOS. Current development focus is on modernizing, bug fixing, and removing legacy git command line usage in favour of libgit2 and objective-git. | gitx | 431 |
-| 12 |  [hammerspoon](https://github.com/Hammerspoon/hammerspoon) | Staggeringly powerful macOS desktop automation with Lua | Hammerspoon | 8553 |
+| 12 |  [hammerspoon](https://github.com/Hammerspoon/hammerspoon) | Staggeringly powerful macOS desktop automation with Lua | Hammerspoon | 8554 |
 | 13 |  [Quicksilver](https://github.com/quicksilver/Quicksilver) | Quicksilver Project Source | quicksilver | 2501 |
 | 14 |  [adblockfast](https://github.com/rocketshipapps/adblockfast) | Adblock Fast is a new, faster ad blocker for Android, iOS, Chrome, and Opera. | rocketshipapps | 616 |
 | 15 |  [colorfulSidebar](https://github.com/w0lfschild/colorfulSidebar) | :open_file_folder: MacForge plugin to add color back to the sidebar icons in Finder on macOS | w0lfschild | 103 |
@@ -704,7 +704,7 @@
 ## Others
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [awesome-actions](https://github.com/sdras/awesome-actions) | A curated list of awesome actions to use on GitHub | sdras | 16959 |
+| 1 |  [awesome-actions](https://github.com/sdras/awesome-actions) | A curated list of awesome actions to use on GitHub | sdras | 16960 |
 | 2 |  [awesome-stars](https://github.com/abhijithvijayan/awesome-stars) | A curated list of my GitHub stars by stargazed | abhijithvijayan | 61 |
 | 3 |  [awesome-stars](https://github.com/maguowei/awesome-stars) | My Awesome List | maguowei | 216 |
 | 4 |  [FiraCodeiScript](https://github.com/kencrocken/FiraCodeiScript) | Mashup Font of FiraCode and Script12 | kencrocken | 1063 |
@@ -739,7 +739,7 @@
 | 33 |  [CSS3Gradients](https://github.com/estelle/CSS3Gradients) | Library of CSS3 Gradients | estelle | 3 |
 | 34 |  [gecko-dev](https://github.com/mozilla/gecko-dev) | Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: http://bit.ly/contribute-code | mozilla | 2321 |
 | 35 |  [awesome-joplin](https://github.com/kot-behemoth/awesome-joplin) | 📒 A curated list of awesome Joplin themes and tools. | kot-behemoth | 208 |
-| 36 |  [gitignore](https://github.com/github/gitignore) | A collection of useful .gitignore templates | github | 127547 |
+| 36 |  [gitignore](https://github.com/github/gitignore) | A collection of useful .gitignore templates | github | 127546 |
 | 37 |  [browser-chrome-experiment](https://github.com/EnderDev/browser-chrome-experiment) |  | EnderDev | 1 |
 | 38 |  [Firefox](https://github.com/bolucat/Firefox) | The Source Code of Firefox on Desktop | bolucat | 3 |
 | 39 |  [thunderbird-2](https://github.com/metux/thunderbird-2) | thunderbird 2nd try ... v68.0 | metux | 2 |
@@ -747,8 +747,8 @@
 | 41 |  [vscode-liquid-snippets](https://github.com/killalau/vscode-liquid-snippets) | Shopify Liquid Template Snippets | killalau | 21 |
 | 42 |  [Shopify-notifications](https://github.com/kailasachse/Shopify-notifications) | Shopify&#39;s Default Notifications | kailasachse | 1 |
 | 43 |  [awesome-css](https://github.com/awesome-css-group/awesome-css) | :art: A curated contents of amazing CSS :) | awesome-css-group | 3490 |
-| 44 |  [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) | Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more | bradtraversy | 34145 |
-| 45 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 180821 |
+| 44 |  [design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) | Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more | bradtraversy | 34152 |
+| 45 |  [awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | sindresorhus | 180830 |
 | 46 |  [inspire](https://github.com/noahbuscher/inspire) | Collection of web design &amp; development links :bulb: | noahbuscher | 962 |
 | 47 |  [awesome-design-systems](https://github.com/klaufel/awesome-design-systems) | A curated list of bookmarks, resources and articles about design systems focused on developers. | klaufel | 365 |
 | 48 |  [awesome-web-design](https://github.com/nicolesaidy/awesome-web-design) | 🎨 A curated list of awesome resources for digital designers. | nicolesaidy | 1909 |
@@ -823,7 +823,7 @@
 | 3 |  [youtube-search-python](https://github.com/alexmercerind/youtube-search-python) | 🔎 Search for YouTube videos, channels &amp; playlists. Get 🎞 video &amp;  📑 playlist info using link. Get search suggestions. WITHOUT YouTube Data API v3. | alexmercerind | 367 |
 | 4 |  [hass-circadian_lighting](https://github.com/claytonjn/hass-circadian_lighting) | Circadian Lighting custom component for Home Assistant | claytonjn | 432 |
 | 5 |  [hass-gelight](https://github.com/yangqian/hass-gelight) | Home assistant custom component to control C by GE smart light bulb locally via Bluetooth | yangqian | 20 |
-| 6 |  [Social-Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) | Forget the past. Social Amnesia makes sure your social media accounts only show your posts from recent history, not from &#34;that phase&#34; 5 years ago. | Nick-Gottschlich | 703 |
+| 6 |  [Social-Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) | Forget the past. Social Amnesia makes sure your social media accounts only show your posts from recent history, not from &#34;that phase&#34; 5 years ago. | Nick-Gottschlich | 704 |
 | 7 |  [snscrape](https://github.com/JustAnotherArchivist/snscrape) | A social networking service scraper in Python | JustAnotherArchivist | 892 |
 | 8 |  [starred](https://github.com/maguowei/starred) | creating your own Awesome List by GitHub stars! | maguowei | 927 |
 | 9 |  [cync2mqtt](https://github.com/juanboro/cync2mqtt) | Bridge Cync bluetooth mesh to mqtt | juanboro | 3 |
@@ -837,14 +837,14 @@
 | 17 |  [nexfil](https://github.com/thewhiteh4t/nexfil) | OSINT tool for finding profiles by username | thewhiteh4t | 496 |
 | 18 |  [social-media-profiler](https://github.com/pandrey2003/social-media-profiler) | Find information from Twitter, Instagram, LinkedIn and Google Search about a person. | pandrey2003 | 29 |
 | 19 |  [EagleEye](https://github.com/ThoughtfulDev/EagleEye) | Stalk your Friends. Find their Instagram, FB and Twitter Profiles using Image Recognition and Reverse Image Search. | ThoughtfulDev | 2873 |
-| 20 |  [sherlock](https://github.com/sherlock-project/sherlock) | 🔎 Hunt down social media accounts by username across social networks | sherlock-project | 28618 |
+| 20 |  [sherlock](https://github.com/sherlock-project/sherlock) | 🔎 Hunt down social media accounts by username across social networks | sherlock-project | 28621 |
 | 21 |  [social_mapper](https://github.com/Greenwolf/social_mapper) | A Social Media Enumeration &amp; Correlation Tool by Jacob Wilkin(Greenwolf) | Greenwolf | 3230 |
 | 22 |  [Google-Shopping-Scraper](https://github.com/scrapewalrus/Google-Shopping-Scraper) | This is a python Google Shopping scraper that can scrape all the products by searching for a keyword. | scrapewalrus | 5 |
 | 23 |  [Shopify-Variant-Scraper](https://github.com/h0se69/Shopify-Variant-Scraper) | Scrape Shopify Product with variants \| Includes Discord Embed | h0se69 | 1 |
 | 24 |  [excel_automation](https://github.com/SoldierInFaith14/excel_automation) | Python script that modifies Shopify spreadsheet exports of order details. | SoldierInFaith14 | 1 |
 | 25 |  [CC-Offline-Package-Generator](https://github.com/chriswayg/CC-Offline-Package-Generator) | Adobe CC 2018, 2019 and 2020 Direct Download and Offline Installer Package Generator | chriswayg | 82 |
 | 26 |  [adobe-packager](https://github.com/Drovosek01/adobe-packager) | Script that allows to download portable installers of different versions Adobe software for macOS | Drovosek01 | 289 |
-| 27 |  [opendrop](https://github.com/seemoo-lab/opendrop) | An open Apple AirDrop implementation written in Python | seemoo-lab | 5514 |
+| 27 |  [opendrop](https://github.com/seemoo-lab/opendrop) | An open Apple AirDrop implementation written in Python | seemoo-lab | 5513 |
 | 28 |  [youtube-dl-gui](https://github.com/oleksis/youtube-dl-gui) | A cross platform front-end GUI of the popular youtube-dl written in wxPython. | oleksis | 397 |
 | 29 |  [gpm2spotify](https://github.com/vipintom/gpm2spotify) | Google Play Music to Spotify Library Exporter | vipintom | 11 |
 | 30 |  [meld](https://github.com/yousseb/meld) | Meld for macOS | yousseb | 1712 |
@@ -863,16 +863,16 @@
 | 43 |  [NotableUtilities](https://github.com/amelandri/NotableUtilities) | A collection of utility scripts for Notable https://notable.app/ | amelandri | 5 |
 | 44 |  [image-match](https://github.com/ProvenanceLabs/image-match) | 🎇 Quickly search over billions of images | ProvenanceLabs | 2662 |
 | 45 |  [plugin.video.discoveryplus](https://github.com/Dis90/plugin.video.discoveryplus) | discovery+ add-on for Kodi | Dis90 | 31 |
-| 46 |  [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites | ytdl-org | 103880 |
+| 46 |  [youtube-dl](https://github.com/ytdl-org/youtube-dl) | Command-line program to download videos from YouTube.com and other video sites | ytdl-org | 103882 |
 | 47 |  [yt-videos-list](https://github.com/slow-but-steady/yt-videos-list) | Create and **automatically** update a list of all videos on a YouTube channel (in txt/csv/md form) via YouTube bot with end-to-end web scraping - no API tokens required. Multi-threaded support for YouTube videos list  updates. | slow-but-steady | 47 |
 | 48 |  [yt-dlp](https://github.com/yt-dlp/yt-dlp) | A youtube-dl fork with additional features and fixes | yt-dlp | 14272 |
 | 49 |  [shopify-to-facebook](https://github.com/johntelforduk/shopify-to-facebook) | Command line program to convert a Shopify Customer Export file into Facebook Custom Audience List format. | johntelforduk | 1 |
-| 50 |  [searx](https://github.com/searx/searx) | Privacy-respecting metasearch engine | searx | 10107 |
+| 50 |  [searx](https://github.com/searx/searx) | Privacy-respecting metasearch engine | searx | 10108 |
 | 51 |  [Gmail-creator](https://github.com/Ipetar69/Gmail-creator) | It will generate random credentials for a new Gmail account. It autostarts Firefox and it is autotyping, you don&#39;t have to do anything other than run the script. | Ipetar69 | 2 |
 | 52 |  [easylist](https://github.com/easylist/easylist) | EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy&#39;s Social/Annoyances/Notifications Blocking List) | easylist | 1084 |
-| 53 |  [hosts](https://github.com/StevenBlack/hosts) | 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories. | StevenBlack | 19388 |
+| 53 |  [hosts](https://github.com/StevenBlack/hosts) | 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories. | StevenBlack | 19389 |
 | 54 |  [pihole-stuff](https://github.com/RooneyMcNibNug/pihole-stuff) | blocklists, scripts, etc. | RooneyMcNibNug | 21 |
-| 55 |  [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) | 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more... | ArchiveBox | 12404 |
+| 55 |  [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) | 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more... | ArchiveBox | 12405 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -881,11 +881,11 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [asis](https://github.com/GSA/asis) | ASIS (Advanced Social Image Search) indexes Flickr and Instagram images and provides a search API across both indexes. | GSA | 25 |
 | 2 |  [gist](https://github.com/defunkt/gist) | Potentially the best command line gister. | defunkt | 3686 |
-| 3 |  [homebrew-core](https://github.com/Homebrew/homebrew-core) | 🍻 Default formulae for the missing package manager for macOS (or Linux) | Homebrew | 10479 |
+| 3 |  [homebrew-core](https://github.com/Homebrew/homebrew-core) | 🍻 Default formulae for the missing package manager for macOS (or Linux) | Homebrew | 10480 |
 | 4 |  [BetterTouchTool-Widgets](https://github.com/ttscoff/BetterTouchTool-Widgets) |  | ttscoff | 20 |
 | 5 |  [homebrew-cask](https://github.com/Homebrew/homebrew-cask) | 🍻 A CLI workflow for the administration of macOS applications distributed as binaries | Homebrew | 18773 |
 | 6 |  [homebrew-cask-upgrade](https://github.com/buo/homebrew-cask-upgrade) | A command line tool for upgrading every outdated app installed by Homebrew Cask | buo | 1917 |
-| 7 |  [huginn](https://github.com/huginn/huginn) | Create agents that monitor and act on your behalf.  Your agents are standing by! | huginn | 32850 |
+| 7 |  [huginn](https://github.com/huginn/huginn) | Create agents that monitor and act on your behalf.  Your agents are standing by! | huginn | 32851 |
 | 8 |  [dotfiles](https://github.com/cheshire137/dotfiles) | All my handy configuration files, including for stuff like Skyrim. ⚔️ | cheshire137 | 15 |
 | 9 |  [homebrew-shopify](https://github.com/Shopify/homebrew-shopify) |  | Shopify | 28 |
 | 10 |  [theme-check](https://github.com/Shopify/theme-check) | The Ultimate Shopify Theme Linter | Shopify | 219 |
@@ -941,9 +941,9 @@
 | 26 |  [lando](https://github.com/lando/lando) | A development tool for all your projects that is fast, easy, powerful and liberating | lando | 3143 |
 | 27 |  [BlaCk-Void-Zsh](https://github.com/black7375/BlaCk-Void-Zsh) | 🔮 Awesome, Customable Zsh Starter Kit 🌠🌠 | black7375 | 286 |
 | 28 |  [btt-controllers](https://github.com/andrewchidden/btt-controllers) | Small controller scripts and utilities designed to work with BetterTouchTool. | andrewchidden | 30 |
-| 29 |  [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. | ohmyzsh | 138280 |
-| 30 |  [neofetch](https://github.com/dylanaraps/neofetch) | 🖼️  A command-line system information tool written in bash 3.2+ | dylanaraps | 13810 |
-| 31 |  [powerlevel10k](https://github.com/romkatv/powerlevel10k) | A Zsh theme | romkatv | 23829 |
+| 29 |  [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | 🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. | ohmyzsh | 138278 |
+| 30 |  [neofetch](https://github.com/dylanaraps/neofetch) | 🖼️  A command-line system information tool written in bash 3.2+ | dylanaraps | 13812 |
+| 31 |  [powerlevel10k](https://github.com/romkatv/powerlevel10k) | A Zsh theme | romkatv | 23830 |
 | 32 |  [powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) | Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k. | Powerlevel9k | 13274 |
 | 33 |  [zshrc-mv](https://github.com/vaeth/zshrc-mv) | This is a zsh initialization file (e.g. /etc/zshrc or ~/.zshrc) which activates a lot of zsh features | vaeth | 11 |
 | 34 |  [dotfiles](https://github.com/rinsuki/dotfiles) | my dotfiles | rinsuki | 5 |
@@ -955,7 +955,7 @@
 ## Smarty
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [adfilt](https://github.com/DandelionSprout/adfilt) | The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really. | DandelionSprout | 403 |
+| 1 |  [adfilt](https://github.com/DandelionSprout/adfilt) | The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really. | DandelionSprout | 404 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -963,21 +963,21 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [Equinox](https://github.com/rlxone/Equinox) | 🌇 🌃  Create dynamic wallpapers for macOS. | rlxone | 241 |
-| 2 |  [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) | 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps | serhii-londar | 28940 |
+| 2 |  [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) | 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps | serhii-londar | 28943 |
 | 3 |  [neural-greenscreen](https://github.com/PhilippMatthes/neural-greenscreen) | Real time background replacement on a mac os driven webcam using the DeepLabV3 neural network for image segmentation and the native CoreMediaIO DAL framework of Mac OS. | PhilippMatthes | 15 |
 | 4 |  [YouTube-Downloader-for-macOS](https://github.com/DenBeke/YouTube-Downloader-for-macOS) | Simple menu bar app to download YouTube movies on your Mac | DenBeke | 221 |
 | 5 |  [Get-It](https://github.com/Kevin-De-Koninck/Get-It) | A macOS GUI for youtube-dl | Kevin-De-Koninck | 530 |
 | 6 |  [wallpapper](https://github.com/mczachurski/wallpapper) | :computer: Console application for creating dynamic wallpapers for macOS Mojave and newer | mczachurski | 2536 |
 | 7 |  [bigmac](https://github.com/StarPlayrX/bigmac) | Big Mac, macOS 11 Big Sur and macOS Monterey disk installer and back up tool for Intel based Macs | StarPlayrX | 347 |
-| 8 |  [YouTube-Music](https://github.com/steve228uk/YouTube-Music) | :musical_note: A Mac app wrapper for music.youtube.com | steve228uk | 2095 |
+| 8 |  [YouTube-Music](https://github.com/steve228uk/YouTube-Music) | :musical_note: A Mac app wrapper for music.youtube.com | steve228uk | 2096 |
 | 9 |  [Clipy](https://github.com/Clipy/Clipy) | Clipboard extension app for macOS. | Clipy | 5587 |
 | 10 |  [simplenote-macos](https://github.com/Automattic/simplenote-macos) | Simplenote for macOS | Automattic | 1199 |
 | 11 |  [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) | ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty. | Ji4n1ng | 4119 |
-| 12 |  [pock](https://github.com/pock/pock) | Widgets manager for MacBook Touch Bar | pock | 9588 |
+| 12 |  [pock](https://github.com/pock/pock) | Widgets manager for MacBook Touch Bar | pock | 9587 |
 | 13 |  [macOS-PasswordManager](https://github.com/MaorS/macOS-PasswordManager) | 🔑👨‍💻macOS Password Manager | MaorS | 32 |
 | 14 |  [Tinkle](https://github.com/pqrs-org/Tinkle) |  | pqrs-org | 53 |
 | 15 |  [blurred](https://github.com/dwarvesf/blurred) | A macOS utility that helps reduce distraction by dimming your inactive noise | dwarvesf | 384 |
-| 16 |  [hidden](https://github.com/dwarvesf/hidden) | An ultra-light MacOS utility that helps hide menu bar icons | dwarvesf | 5120 |
+| 16 |  [hidden](https://github.com/dwarvesf/hidden) | An ultra-light MacOS utility that helps hide menu bar icons | dwarvesf | 5121 |
 | 17 |  [Dozer](https://github.com/Mortennn/Dozer) | Hide menu bar icons on macOS | Mortennn | 5663 |
 | 18 |  [FinderGo](https://github.com/onmyway133/FinderGo) | 🐢 Open terminal quickly from Finder | onmyway133 | 915 |
 | 19 |  [Amethyst](https://github.com/ianyh/Amethyst) | Automatic tiling window manager for macOS à la xmonad. | ianyh | 10039 |
@@ -1008,28 +1008,28 @@
 | 2 |  [tabs-aside](https://github.com/tim-we/tabs-aside) | A session/tab manager web extension for Firefox based on the Microsoft Edge feature. | tim-we | 71 |
 | 3 |  [hide_private_mode](https://github.com/hensm/hide_private_mode) |  | hensm | 17 |
 | 4 |  [download-directory-helper](https://github.com/gluons/download-directory-helper) | 📁 A Firefox add-on to use download-directory easily. | gluons | 3 |
-| 5 |  [refined-github](https://github.com/refined-github/refined-github) | :octocat: Browser extension that simplifies the GitHub interface and adds useful features | refined-github | 16471 |
-| 6 |  [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) | Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events. | Cookie-AutoDelete | 1194 |
+| 5 |  [refined-github](https://github.com/refined-github/refined-github) | :octocat: Browser extension that simplifies the GitHub interface and adds useful features | refined-github | 16473 |
+| 6 |  [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) | Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events. | Cookie-AutoDelete | 1195 |
 | 7 |  [desktop](https://github.com/desktop/desktop) | Simple collaboration from your desktop | desktop | 13736 |
-| 8 |  [Bracket-Pair-Colorizer-2](https://github.com/CoenraadS/Bracket-Pair-Colorizer-2) | Bracket Colorizer Extension for VSCode | CoenraadS | 1242 |
-| 9 |  [checkout](https://github.com/actions/checkout) | Action for checking out a repo | actions | 2109 |
+| 8 |  [Bracket-Pair-Colorizer-2](https://github.com/CoenraadS/Bracket-Pair-Colorizer-2) | Bracket Colorizer Extension for VSCode | CoenraadS | 1243 |
+| 9 |  [checkout](https://github.com/actions/checkout) | Action for checking out a repo | actions | 2110 |
 | 10 |  [metube](https://github.com/alexta69/metube) | youtube-dl web UI | alexta69 | 640 |
 | 11 |  [searchmediaProfilesLink](https://github.com/joelwembo/searchmediaProfilesLink) | Angular CLI Seach All Social Media Profile Using an Email Account | joelwembo | 3 |
 | 12 |  [fndr](https://github.com/avindra/fndr) | An Internet helper to wrangle multiple search providers, extract social media ids, perform reverse image search and more. | avindra | 1 |
 | 13 |  [shopify-tools-cli](https://github.com/j-Riv/shopify-tools-cli) | CLI to bulk edit Shopify Products / Variants, and Customers. Uses CSV to import and iterate over data. | j-Riv | 2 |
 | 14 |  [vscode-html-missing-features](https://github.com/SimonSiefke/vscode-html-missing-features) |  | SimonSiefke | 1 |
 | 15 |  [merge](https://github.com/austintraver/merge) | Addon to replicate the Safari &#39;Merge All Windows&#39; menu command | austintraver | 3 |
-| 16 |  [squoosh](https://github.com/GoogleChromeLabs/squoosh) | Make images smaller using best-in-class codecs, right in the browser. | GoogleChromeLabs | 15324 |
-| 17 |  [nuclear](https://github.com/nukeop/nuclear) | Streaming music player that finds free music for you | nukeop | 7145 |
+| 16 |  [squoosh](https://github.com/GoogleChromeLabs/squoosh) | Make images smaller using best-in-class codecs, right in the browser. | GoogleChromeLabs | 15325 |
+| 17 |  [nuclear](https://github.com/nukeop/nuclear) | Streaming music player that finds free music for you | nukeop | 7146 |
 | 18 |  [joplin-utils](https://github.com/rxliuli/joplin-utils) | Some joplin peripheral tools created by me. Since the functions are in the same category and are related, they are managed using monorepo. | rxliuli | 51 |
 | 19 |  [joplin-note-tabs](https://github.com/benji300/joplin-note-tabs) | Allows to open several notes at once in tabs and pin them. | benji300 | 122 |
 | 20 |  [joplin-persistent-layout](https://github.com/benji300/joplin-persistent-layout) | Save editor layout (editor/split view/viewer/rich text) for each note separately. | benji300 | 8 |
 | 21 |  [joplin-favorites](https://github.com/benji300/joplin-favorites) | Save any notebook, note, to-do, tag, or search as favorite in an extra panel view for quick access. | benji300 | 47 |
 | 22 |  [plugin-templates](https://github.com/joplin/plugin-templates) | Create templates in Joplin and use them to create new notes and todos. | joplin | 40 |
-| 23 |  [joplin](https://github.com/laurent22/joplin) | Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/ | laurent22 | 27208 |
+| 23 |  [joplin](https://github.com/laurent22/joplin) | Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/ | laurent22 | 27211 |
 | 24 |  [userscript-youtube-playlist-organizer](https://github.com/Trinovantes/userscript-youtube-playlist-organizer) | Drag and drop interface to organize playlists on YouTube | Trinovantes | 4 |
 | 25 |  [joplin-plugin-table-formatter](https://github.com/roman-r-m/joplin-plugin-table-formatter) | Markdown table format plugin for Joplin | roman-r-m | 9 |
-| 26 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 125597 |
+| 26 |  [vscode](https://github.com/microsoft/vscode) | Visual Studio Code | microsoft | 125599 |
 | 27 |  [jscpd](https://github.com/kucherenko/jscpd) | Copy/paste detector for programming source code. | kucherenko | 2403 |
 | 28 |  [browser](https://github.com/bitwarden/browser) | The browser extension vault (Chrome, Firefox, Opera, Edge, Safari, &amp; more). | bitwarden | 3312 |
 | 29 |  [vscode-mjml](https://github.com/mjmlio/vscode-mjml) | MJML preview, lint, compile for Visual Studio Code. | mjmlio | 89 |
