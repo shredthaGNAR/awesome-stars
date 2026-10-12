@@ -4,6 +4,8 @@ on:
   schedule:
     -
       cron: '30 0 * * *'
+permissions:
+  contents: write
 jobs:
   build:
     name: 'stargazed update'
@@ -11,12 +13,13 @@ jobs:
     steps:
       -
         name: 'Use GitHub Actions'
-        uses: actions/checkout@v2
+        uses: actions/checkout@v6
       -
-        name: 'Use Node.js 12.x'
-        uses: actions/setup-node@v1
+        name: 'Use Node.js 24.x'
+        uses: actions/setup-node@v6
         with:
-          node-version: 12.x
+          node-version: '24'
+          package-manager-cache: false
       -
         name: 'Install Package'
         run: 'npm install --global stargazed'
@@ -24,4 +27,4 @@ jobs:
         name: 'Update Repo'
         env:
           GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
-        run: 'stargazed --username  "shredthagnar" --token ${GITHUB_TOKEN} --repo "awesome-stars" --message "stargazed update by GitHub Actions Workflow" --sort'
+        run: 'stargazed --username "$GITHUB_REPOSITORY_OWNER" --token "$GITHUB_TOKEN" --repo "${GITHUB_REPOSITORY#*/}" --message "stargazed update by GitHub Actions Workflow" --sort'
